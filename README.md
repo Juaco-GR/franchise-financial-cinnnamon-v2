@@ -6,11 +6,4 @@ Web application built with Streamlit to evaluate franchise investments.
 - Revenue projections
 - ROI, IRR, Payback
 - Scenario analysis
-- Franchisee vs Franchisor views
-
-## Usage
-Access the live app:
-[LINK_AQUI]
-
-## Author
-Your Name / Company
+- Franchisee vs Franchisor view
